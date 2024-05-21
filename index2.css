@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial';
+}
+
+h1, h3 {
+    color: #333;
+}
+
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px; ;
+}
+
+
+img.rounded-circle {
+    border: 5px solid #a3c8ec;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  
+}
+h1,h3,h5,h6,h4,h2,u{
+    padding:20px ;
+}
+
+/* p{
+    padding: 15px;
+} */
+
